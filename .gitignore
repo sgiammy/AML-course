@@ -3,3 +3,6 @@
 .ipython
 .jupyter
 .local
+datasets/
+spark-warehouse/
+lastfm_model.spark/
