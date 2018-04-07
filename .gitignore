@@ -3,6 +3,7 @@
 .ipython
 .jupyter
 .local
+.bash_history
 datasets/
 spark-warehouse/
 lastfm_model.spark/
